@@ -1,7 +1,7 @@
 # 5DayGeostats_DataAnalytics
 5-day course on Geostatistics, Data Analytics and Machine Learning
 
-Short course on data analytics, geostatistics and machine learning with lectures, and hands-on demos for 5-day class.
+Short course on data analytics, geostatistics and machine learning with lectures, and hands-on demos for a 5-day class.
 
 #### Course Objectives:
 
