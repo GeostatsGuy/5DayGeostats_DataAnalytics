@@ -1,3 +1,7 @@
+<p>
+    <img src="https://github.com/GeostatsGuy/GeostatsPy/blob/master/TCG_color_logo.png" width="220" height="200" />
+</p>
+
 # 5DayGeostats_DataAnalytics
 5-day course on Geostatistics, Data Analytics and Machine Learning
 
